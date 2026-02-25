@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">👨‍💻 Systems Engineering student @ CECAR | 🐍 Python programmer | 🛡️ Passionate about Cybersecurity | 🌐 Web Development | 📜 14 tech certifications | 🤖 Exploring AI | 🔍 Self-taught & always curious</p>
+<p align="left">👨‍💻 Systems Engineering student @ CECAR | 🐍 C++ programmer | 🛡️ Passionate about Cybersecurity(KaliLinux and Parrot Os Security) | 🌐 Web Development | 📜
+  tech certifications | 🤖 Exploring AI | 🔍 Self-taught & always curious</p>
 
 ###
 
