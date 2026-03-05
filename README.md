@@ -67,7 +67,7 @@ My main goal is to become an expert in web technologies and cybersecurity, devel
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://pqs.pe/emprendimiento/por-que-tienen-tanto-exito-los-gifs-animados/"  />
 
 ###
 
