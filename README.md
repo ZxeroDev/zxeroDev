@@ -67,7 +67,7 @@ My main goal is to become an expert in web technologies and cybersecurity, devel
 
 ###
 
-<img align="right" height="150" src="https://pqs.pe/emprendimiento/por-que-tienen-tanto-exito-los-gifs-animados/"  />
+<img align="right" height="150" src="https://pqs.pe/emprendimiento/por-que-tienen-tanto-exito-los-gifs-animados/](https://pqs.pe/wp-content/uploads/2016/03/tumblr_m984tzdeg51rplctno1_500.gif"  />
 
 ###
 
