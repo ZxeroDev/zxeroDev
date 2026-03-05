@@ -18,6 +18,18 @@
 
 ###
 
+Hello, how are you? Nice to meet you. My name is Alan González, and I am a third-semester student at CECAR. I have knowledge of several technologies related to web development, databases, and cybersecurity, including HTML for front-end development, SQL for database management, and fundamental cybersecurity concepts.
+
+Currently, I am focusing on improving my skills in HTML and modern front-end development, since I am passionate about building structured, accessible, and efficient web interfaces. At the same time, I am expanding my knowledge in SQL and database architecture, learning how to design, manage, and optimize databases in a secure and scalable way.
+
+In addition, I am deeply interested in cybersecurity. I enjoy studying how systems work, identifying vulnerabilities, and learning how to protect digital information from potential threats. My interest includes both ethical hacking and database security, because protecting information is one of the most important challenges in today's digital world.
+
+I consider myself a committed and responsible person who is constantly seeking to improve both academically and personally. I strongly believe that discipline and persistence are the keys to success, because every achievement requires effort, consistency, and dedication. As the saying goes, without sacrifice, there is no reward, and that mindset motivates me to continue learning and growing every day.
+
+My main goal is to become an expert in web technologies and cybersecurity, developing strong skills as a Front-End Developer in HTML, a SQL Database Architect, and a cybersecurity professional specialized in ethical hacking and database security. Through continuous learning and practice, I aim to contribute to building secure, efficient, and reliable technological systems.
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
